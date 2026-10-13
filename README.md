@@ -198,8 +198,5 @@ A interface traz 5 predefinições (eletrólitos A, B, C, D e a célula do artig
 
 Se usar este trabalho, cite também o artigo-fonte ([seção 2](#2-referência-científica)).
 
-**Autor:** Alejandro — *(completar nome e contato)*
-**Licença:** *(escolher, por exemplo MIT)*
-
 > [!IMPORTANT]
 > Este é um modelo de pesquisa e estudo. Não é uma ferramenta validada para projeto de produto.
